@@ -14,7 +14,7 @@ IdentityGEN utilizes the randomuser.me API to instantly produce realistic and va
  <table>
       <tr>
             <td>
-                <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="500">
+                <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="300">
             </td>
         </tr>
        </table>
